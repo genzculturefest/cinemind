@@ -5,7 +5,7 @@ import { defineConfig } from 'vite';
 
 export default defineConfig(() => {
   return {
-    base: '/cinemind/', // <-- Tambahkan baris ini agar sesuai dengan nama repository GitHub Pages
+    base: '/', // <-- Tambahkan baris ini agar sesuai dengan nama repository GitHub Pages
     plugins: [react(), tailwindcss()],
     resolve: {
       alias: {

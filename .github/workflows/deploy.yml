@@ -1,5 +1,5 @@
 
-name: Deploy CINEMIND to GitHub Pages
+name: Deploy cnm to GitHub Pages
 
 on:
   push:

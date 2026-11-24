@@ -32,7 +32,7 @@ export const PublicNavbar: React.FC = () => {
           >
             <div className="w-10 h-10 rounded-[2px] flex items-center justify-center shrink-0 overflow-hidden bg-black/5 dark:bg-white/5 p-0.5">
               <img
-                src="https://culturz.my.id/cinemind-removebg-preview.png"
+                src="https://genzculturefest.github.io/speakup/cinemind-removebg-preview.png"
                 alt="Cinemind Logo"
                 className="w-full h-full object-contain filter drop-shadow-sm group-hover:scale-105 transition-transform duration-300"
               />
